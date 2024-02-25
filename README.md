@@ -1,13 +1,13 @@
 <h1 align="center">Hello World 👋, I'm Maaz Jawaid</h1>
 <h3 align="center">A passionate Data Analyst & Python Developer</h3>
 
-- 🔭 I’m currently working on [Supply Chain Insights in FMCG Domain](https://github.com/MaazJawaid/Supply_Chain_Insights_in_FMCG_Domain)
+- 🔭 I’m currently working on **my exploration into various domains beyond my core technical skills as a Data Analyst.**
 
 - 🌱 I’m currently learning **diverse domains beyond my technical expertise as a Data Analyst, such as healthcare, finance, government, insurance, and pharmaceuticals.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MaazJawaid](https://github.com/MaazJawaid)
 
-- 💬 Ask me about **my exploration into various domains beyond my core technical skills as a Data Analyst.**
+- 💬 Ask me about **finance to healthcare, e-commerce/retail to marketing, technology to government, data analysts need expertise in statistical analysis, data manipulation, visualization (with tools like Tableau or Power BI), programming (Python or R), database management (SQL) and critical thinking to excel in their roles and provide valuable insights.**
 
 - 📫 How to reach me **https://www.linkedin.com/in/maaz-jawaid-498963270/**
 
@@ -15,7 +15,6 @@
 
 - ⚡ Fun fact **I began my journey as a Python developer, transitioned into Machine Learning, and eventually found Data Analytics to be my true passion and forte.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
