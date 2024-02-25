@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my exploration into various domains beyond my core technical skills as a Data Analyst.**
 
-- 🌱 I’m currently learning **diverse domains beyond my technical expertise as a Data Analyst, such as healthcare, finance, government, insurance, and pharmaceuticals.**
+- 🌱 I’m currently learning **diverse domains beyond my technical expertise as a Data Analyst, such as Supply Chain Management, healthcare, finance, government, insurance, and pharmaceuticals.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MaazJawaid](https://github.com/MaazJawaid)
 
