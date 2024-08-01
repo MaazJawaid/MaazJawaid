@@ -19,6 +19,8 @@ Hello! I’m a recent graduate from NED University with a degree in Computer Inf
 - **Backend**: Node.js, Express, MongoDB, JWT, Multer, Node-Cron, and more.
 - **Frontend**: React, Redux, Chart.js, Vite, TailwindCSS, and others.
 
+# Link: https://github.com/MaazJawaid/Foodie
+
 ### 🚓 Vehicle Incident and Garrison Management System
 The **Vehicle Incident and Garrison Management System** is a full-stack MERN application tailored for efficient incident management and vehicle deployment.
 
@@ -36,6 +38,8 @@ The **Vehicle Incident and Garrison Management System** is a full-stack MERN app
 ## 📈 What I’m Working On
 - Enhancing my expertise in advanced full stack development techniques.
 - Exploring new technologies and methodologies to stay at the forefront of software development.
+
+# Link: https://github.com/MaazJawaid/Management-App
 
 ## 💬 Get in Touch
 - **LinkedIn**: https://www.linkedin.com/in/maaz-jawaid-498963270/
