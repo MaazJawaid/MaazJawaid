@@ -54,7 +54,7 @@ The **Vehicle Incident and Garrison Management System** is a full-stack MERN app
    - For the frontend: `npm install`
 
 3. **Run the Application**:
-   - Backend: `npm start`
+   - Backend: `npx nodemon index.js`
    - Frontend: `npm run dev`
 
 Feel free to explore my repositories, contribute to the projects, or reach out for collaboration! 😊
