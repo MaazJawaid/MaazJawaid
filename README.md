@@ -16,7 +16,7 @@ Hello! I’m full stack developer, I specialize in creating robust and dynamic a
 - **Admin Dashboard**: Visualize daily sales volumes with bar charts, manage orders, reservations, and food items, and automate discount expiry.
 
 **Technologies:**
-- **Backend**: Node.js, Express, MongoDB, JWT, Multer, Node-Cron, and more.
+- **Backend**: Node.js, Express, MongoDB/MongoDB Atlas, JWT, Multer, Node-Cron, and more.
 - **Frontend**: React, Redux, Chart.js, Vite, TailwindCSS, and others.
 
 # Link: https://github.com/MaazJawaid/Foodie
@@ -31,7 +31,7 @@ The **Vehicle Incident and Garrison Management System** is a full-stack MERN app
 - **In-Depth Reporting**: Generate comprehensive PDF reports for operational insights.
 
 **Technologies:**
-- **Backend**: Node.js, Express.js, MongoDB, Mongoose.
+- **Backend**: Node.js, Express.js, MongoDB/MongoDB Atlas, Mongoose.
 - **Frontend**: React.js, Material-UI, Vite.
 - **Additional Libraries**: Axios, JWT, Day.js, File-Saver.
 
