@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile!
 
 ## 👋 About Me
-Hello! I’m full stack developer, I specialize in creating robust and dynamic applications using the MERN stack (MongoDB, Express, React, Node.js). My experience spans the entire software development lifecycle, from design and development to deployment. I recently graduated from NED University with a degree in Computer Information Systems Engineering.
+Hello! I’m full stack developer, I specialize in creating robust and dynamic applications using the MERN stack (MongoDB, Express, React, Node.js). My experience spans the entire software development lifecycle, from design and development to deployment. I graduated from NED University with a degree in Computer Information Systems Engineering.
 
 ## 🛠 Projects
 
