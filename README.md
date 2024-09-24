@@ -56,6 +56,9 @@ The **Vehicle Incident and Garrison Management System** is a full-stack MERN app
 3. **Run the Application**:
    - Backend: `npx nodemon index.js`
    - Frontend: `npm run dev`
+  
+4. **Run the Application**:
+   - env: `password for mongo uri is 123`
 
 Feel free to explore my repositories, contribute to the projects, or reach out for collaboration! 😊
 
