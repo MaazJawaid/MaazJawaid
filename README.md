@@ -34,7 +34,7 @@ The **Vehicle Incident and Garrison Management System** is a full-stack MERN app
    - Frontend: `npm run dev`
   
 4. **ENV Changes**:
-   - env: `password for mongo uri is 123`
+   - env: `set your password for your mongo connection`
 
 ## 📈 What I’m Working On
 - Enhancing my expertise in advanced full stack development techniques.
