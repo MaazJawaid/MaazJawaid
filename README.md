@@ -5,22 +5,6 @@ Hello! I’m full stack developer, I specialize in creating robust and dynamic a
 
 ## 🛠 Projects
 
-### 🍽️ Foodie
-**Foodie** is an advanced online platform for restaurants, designed to enhance the dining experience through high-tech features and a responsive interface.
-
-**Key Features:**
-- **Advanced Food Filtering**: Multiple filters to find your desired dishes quickly.
-- **User Authentication**: Secure registration and login with JWT tokens.
-- **Cart & Purchase**: Add items to the cart, make purchases, and manage orders.
-- **Reservation Management**: Book, view, and delete table reservations.
-- **Admin Dashboard**: Visualize daily sales volumes with bar charts, manage orders, reservations, and food items, and automate discount expiry.
-
-**Technologies:**
-- **Backend**: Node.js, Express, MongoDB/MongoDB Atlas, JWT, Multer, Node-Cron, and more.
-- **Frontend**: React, Redux, Chart.js, Vite, TailwindCSS, and others.
-
-# Link: https://github.com/MaazJawaid/Foodie
-
 ### 🚓 Vehicle Incident and Garrison Management System
 The **Vehicle Incident and Garrison Management System** is a full-stack MERN application tailored for efficient incident management and vehicle deployment.
 
