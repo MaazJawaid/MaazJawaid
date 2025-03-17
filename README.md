@@ -19,15 +19,7 @@ The **Vehicle Incident and Garrison Management System** is a full-stack MERN app
 - **Frontend**: React.js, Material-UI, Vite.
 - **Additional Libraries**: Axios, JWT, Day.js, File-Saver.
 
-## 📈 What I’m Working On
-- Enhancing my expertise in advanced full stack development techniques.
-- Exploring new technologies and methodologies to stay at the forefront of software development.
-
 # Link: https://github.com/MaazJawaid/Management-App
-
-## 💬 Get in Touch
-- **LinkedIn**: https://www.linkedin.com/in/maaz-jawaid-498963270/
-- **Email**: maaaz.jawaid@gmail.com
 
 ## 📂 How to Get Started
 
@@ -43,6 +35,14 @@ The **Vehicle Incident and Garrison Management System** is a full-stack MERN app
   
 4. **ENV Changes**:
    - env: `password for mongo uri is 123`
+
+## 📈 What I’m Working On
+- Enhancing my expertise in advanced full stack development techniques.
+- Exploring new technologies and methodologies to stay at the forefront of software development.
+
+## 💬 Get in Touch
+- **LinkedIn**: https://www.linkedin.com/in/maaz-jawaid-498963270/
+- **Email**: maaaz.jawaid@gmail.com
 
 Feel free to explore my repositories, contribute to the projects, or reach out for collaboration! 😊
 
