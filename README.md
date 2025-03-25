@@ -8,7 +8,7 @@ A Computer Systems Engineer specializing in building high-performance, scalable 
 I have worked on many projects—some of which are highlighted below:
 
 ### SaaSify *(Private Repository)*
-SaaSify – A full-stack platform designed to streamline WhatsApp business management, helping business owners and employees handle multiple business numbers and customer interactions seamlessly.
+Sassify – A full-stack platform designed to streamline WhatsApp business management, helping business owners and employees handle multiple business numbers and customer interactions seamlessly. Sassify simplifies customer communication and boosts operational efficiency, empowering businesses to manage WhatsApp-based interactions, bulk messages, and conversation flows with ease. 
 
 **Key Features:**
 - **Multi-Role Access:** Separate logins with role-based permissions for owners and employees.
@@ -31,19 +31,6 @@ SaaSify – A full-stack platform designed to streamline WhatsApp business manag
 ### Apointie
 A full-stack doctor appointment booking system built using MUNCHECK stack for scheduling medical appointments and managing doctor-patient interactions.
 
-**Key Features:**
-- **User Access:** Browse doctors, book appointments, and track appointment statuses.
-- **Doctor Panel:** Manage appointments, view earnings, and update appointment statuses in real-time.
-- **Admin Control:** Oversee doctor profiles, manage users, and monitor platform-wide activity.
-- **Payment System:** Supports cash-based appointment payments.
-- **Real-Time Updates:** Seamless appointment tracking with live status changes using WebSockets.
-
-**Tech Stack:**
-- **Frontend:** React.js (Hooks, Context API)
-- **Backend:** Node.js, Express.js, MongoDB (Atlas), Mongoose
-- **Cloud Storage:** Cloudinary for profile and image management
-- **Authentication:** Secure access via JWT
-
 🔗 **Live Demo (User):** [Apointie User](https://private-apointee-frontend.vercel.app/)  
 🔗 **Admin Panel:** [Apointie Admin](https://private-apointee-admin.vercel.app/admin-dashboard)  
 
@@ -55,18 +42,6 @@ A full-stack doctor appointment booking system built using MUNCHECK stack for sc
 
 ### Clothie
 A full-stack e-commerce platform offering seamless online shopping and efficient admin management.
-
-**Key Features:**
-- **User Experience:** Browse products, add to cart, checkout, and track orders.
-- **Admin Panel:** Manage products, users, orders, and payments in real-time.
-- **Payment Integration:** Secure payment processing via Stripe and Razorpay.
-- **Cloud Storage:** Store and manage product images with Cloudinary.
-- **Authentication:** Secure user and admin access with JWT.
-
-**Tech Stack:**
-- **Frontend:** React.js (Hooks, Context API), Tailwind CSS
-- **Backend:** Node.js, Express.js, MongoDB (Atlas), Mongoose
-- **Integrations:** Stripe, Razorpay, Cloudinary, WebSockets
 
 🔗 **Live Demo (User):** [Clothie User](https://private-clothie-ecommerce-platf-git-6bcae8-maazjawaids-projects.vercel.app/)  
 🔗 **Live Demo (Admin):** [Clothie Admin](https://private-clothie-ecommerce-platform-admin.vercel.app/)  
