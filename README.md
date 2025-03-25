@@ -29,7 +29,7 @@ Sassify – A full-stack platform designed to streamline WhatsApp business manag
 ---
 
 ### Apointie
-A full-stack doctor appointment booking system built using MUNCHECK stack for scheduling medical appointments and managing doctor-patient interactions.
+Built a full-stack doctor appointment booking system using React, Node.js, and MongoDB, featuring real-time updates, cash payments, and multi-role admin and doctor panels.
 
 🔗 **Live Demo (User):** [Apointie User](https://private-apointee-frontend.vercel.app/)  
 🔗 **Admin Panel:** [Apointie Admin](https://private-apointee-admin.vercel.app/admin-dashboard)  
@@ -41,7 +41,7 @@ A full-stack doctor appointment booking system built using MUNCHECK stack for sc
 ---
 
 ### Clothie
-A full-stack e-commerce platform offering seamless online shopping and efficient admin management.
+Developed a scalable MERN-based e-commerce platform with Stripe and Razorpay payment integration, real-time order tracking, and a comprehensive admin panel for managing products and users.
 
 🔗 **Live Demo (User):** [Clothie User](https://private-clothie-ecommerce-platf-git-6bcae8-maazjawaids-projects.vercel.app/)  
 🔗 **Live Demo (Admin):** [Clothie Admin](https://private-clothie-ecommerce-platform-admin.vercel.app/)  
@@ -54,7 +54,7 @@ A full-stack e-commerce platform offering seamless online shopping and efficient
 ---
 
 ### Vehicle Incident and Garrison Management System *(Private Repository)*
-A full-stack MERN application designed to optimize incident management and vehicle deployment.
+Created a MERN-based system for real time vehicle tracking, automated data entry, and PDF report generation, enhancing operational efficiency and incident management.
 
 **Key Features:**
 - **Real-Time Tracking:** Monitor incidents and garrison movements with precise logging.
