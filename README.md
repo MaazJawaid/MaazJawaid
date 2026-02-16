@@ -1,84 +1,68 @@
-# Welcome to My GitHub Profile!
+# Hi, I'm Maaz Jawaid
 
-## 👋 About Me
-A Computer Systems Engineer specializing in building high-performance, scalable applications. Proficient in JavaScript (React.js, Next.js, Node.js) and Python. Experienced in both SQL (PostgreSQL, MySQL) and NoSQL (MongoDB, Firebase, Redis) databases, along with real-time database technologies. Skilled in cloud services (AWS, Azure), containerization (Docker), network configurations (Nginx), and version control (Git, GitHub, Bitbucket). Familiar with task management tools (Jira, Trello) and platforms like (Slack). Expertise in deployment (AWS EC2, VPS), serverless (AWS Lambda), and modern frameworks like GraphQL and Apollo Client.
-
-## 🛠 Projects
-
-I have worked on many projects—some of which are highlighted below:
-
-### SaaSify *(Private Repository)*
-Sassify – A full-stack platform designed to streamline WhatsApp business management, helping business owners and employees handle multiple business numbers and customer interactions seamlessly. Sassify simplifies customer communication and boosts operational efficiency, empowering businesses to manage WhatsApp-based interactions, bulk messages, and conversation flows with ease. 
-
-**Key Features:**
-- **Multi-Role Access:** Separate logins with role-based permissions for owners and employees.
-- **Admin Panel:** Centralized dashboard to manage data, users, and settings.
-- **WhatsApp Integration:** Use WhatsApp Cloud API for text, media, and location sharing.
-- **Real-Time Messaging & Status:** Track message statuses and smooth communication via WebSockets.
-- **Bulk Messaging:** Upload contacts via Excel and send bulk messages with one click.
-- **Conversation Flow Management:** Design dynamic conversation flows for targeted messaging.
-
-**Tech Stack:**
-- **Frontend:** React.js, Tailwind CSS
-- **Backend:** Node.js
-- **API Integration:** Meta’s WhatsApp Cloud API
-- **Real-Time Communication:** WebSockets
-
-🔗 **Live Link:** [SaaSify Demo](https://saa-sify-frontend-git-main-maazjawaids-projects.vercel.app/)
+**Full-Stack Developer** · MERN Stack Specialist · Building scalable applications that ship.
 
 ---
 
-### Apointie
-Built a full-stack doctor appointment booking system using React, Node.js, and MongoDB, featuring real-time updates, cash payments, and multi-role admin and doctor panels.
+### About Me
 
-🔗 **Live Demo (User):** [Apointie User](https://private-apointee-frontend.vercel.app/)  
-🔗 **Admin Panel:** [Apointie Admin](https://private-apointee-admin.vercel.app/admin-dashboard)  
+I'm a Full-Stack Developer with **3+ years** of experience architecting and delivering production systems across **healthcare, ERP, and SaaS**. I focus on **scale, reliability, and business impact**—not buzzwords.
 
-💼 **Login:**  
-- **Email:** admin@example.com  
-- **Password:** maazjawaid123  
-
----
-
-### Clothie
-Developed a scalable MERN-based e-commerce platform with Stripe and Razorpay payment integration, real-time order tracking, and a comprehensive admin panel for managing products and users.
-
-🔗 **Live Demo (User):** [Clothie User](https://private-clothie-ecommerce-platf-git-6bcae8-maazjawaids-projects.vercel.app/)  
-🔗 **Live Demo (Admin):** [Clothie Admin](https://private-clothie-ecommerce-platform-admin.vercel.app/)  
-🔗 **GitHub Repo:** [Clothie Repository](https://github.com/MaazJawaid/Clothie-Ecommerce-Platform)  
-
-💼 **Login:**  
-- **Email:** admin@example.com  
-- **Password:** maazjawaid123  
+- **10+ production systems** delivered end-to-end  
+- **Enterprise CRM, lead automation, AI-powered platforms**, and infrastructure migrations  
+- Strong in **React, Node.js, TypeScript, AWS**, and **CI/CD**  
+- I care about **ownership, performance by default, and long-term maintainability**
 
 ---
 
-### Vehicle Incident and Garrison Management System *(Private Repository)*
-Created a MERN-based system for real time vehicle tracking, automated data entry, and PDF report generation, enhancing operational efficiency and incident management.
+### What I Do
 
-**Key Features:**
-- **Real-Time Tracking:** Monitor incidents and garrison movements with precise logging.
-- **Automated Data Entry:** Intelligent auto-completion for streamlined data management.
-- **Vehicle Management:** Log and track vehicle usage with detailed timestamps.
-- **In-Depth Reporting:** Generate comprehensive PDF reports for operational insights.
-
-**Tech Stack:**
-- **Frontend:** React.js, Material-UI, Vite
-- **Backend:** Node.js, Express.js, MongoDB (Atlas), Mongoose
-- **Additional Libraries:** Axios, JWT, Day.js, File-Saver
-
-🔗 **Live Link:** [Vehicle Management System](https://private-management-app-pueh-frontend.vercel.app/)
+| Focus | Description |
+|-------|-------------|
+| **Scale & Performance** | Systems built for growth—applications serving 10M+ requests daily with 99.9% uptime. |
+| **Business Impact** | Technical decisions tied to outcomes—e.g. 40% infrastructure cost reduction while improving performance. |
+| **Reliability** | Testing, monitoring, and observability from day one so systems work when they need to. |
+| **Ownership** | Beyond code: documentation, maintenance, team velocity, and managing technical debt. |
 
 ---
 
-## 📈 What I’m Working On
-- Enhancing my expertise in advanced full stack development techniques.
-- Learning new technologies, including blockchain development.
-- Practicing data structures and algorithms on LeetCode to improve problem-solving skills.
+### Experience Snapshot
 
-## 💬 Get in Touch
-- **LinkedIn:** [https://www.linkedin.com/in/maaz-jawaid-498963270/](https://www.linkedin.com/in/maaz-jawaid-498963270/)
-- **Email:** maaaz.jawaid@gmail.com
-- **Whatsapp:** [https://wa.me/923122302146](https://wa.me/923122302146)
+- **Family Builders & Developers** — *Full-Stack Developer* (Oct 2024 – Present)  
+  Enterprise CRM systems, AWS infrastructure (EC2, S3, Lambda), CI/CD; 4+ CRM systems, 45% efficiency gains, 99.9% uptime for 10K+ daily users.
 
-Feel free to explore my repositories, contribute to the projects, or reach out for collaboration! 😊
+- **Ace On Technology** — *Full-Stack Developer* (Sep 2023 – Oct 2024)  
+  6+ production apps (healthcare & e-commerce, 50K+ users), 90% test coverage, 98% accessibility.
+
+- **Freelance** — *Full-Stack Developer* (Jun 2022 – Jul 2023)  
+  SaaS and e-commerce for 8+ international clients (USA, UK, Middle East); Docker, Nginx, AWS, Stripe/PayPal.
+
+---
+
+### Tech Stack
+
+**Frontend:** React · Next.js · TypeScript · Tailwind CSS  
+**Backend:** Node.js · NestJS · Express · Python · Django · REST · GraphQL  
+**Cloud & DevOps:** AWS · Docker · Kubernetes · Nginx · GitHub Actions · Terraform  
+**Data:** PostgreSQL · MongoDB · Redis · Supabase · Firebase  
+**Quality:** Jest · Cypress · Monitoring & Observability  
+
+---
+
+### Featured Work
+
+- **WhatsApp Funnel** — Lead automation across WhatsApp, Facebook Lead Ads, and webhooks; 80% lead processing automated, 3x faster response.
+- **Emailie** — AI email platform (GPT-4 personalization); 45% higher open rates, 2.5x click-through.
+- **Employee Management System** — Enterprise HR (attendance, performance, payroll); 85% HR task automation, 50% fewer payroll errors.
+- **Warm Home** — Rental platform (listings, chat, leases, payments); 40% less management time, 70% faster payments.
+- **Infrastructure** — Microservices migration (zero-downtime), CI/CD pipelines, streaming data (Kafka, 5TB+ daily).
+
+---
+
+### Connect
+
+- **Portfolio:** [maazjawaid.com](https://maazjawaid.com)  
+- **LinkedIn:** [linkedin.com/in/maaz-jawaid-498963270](https://linkedin.com/in/maaz-jawaid-498963270)  
+- **Email:** maaaz.jawaid@gmail.com  
+
+*Available for remote opportunities.*
