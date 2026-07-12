@@ -6,9 +6,9 @@
 
 ### About Me
 
-I'm a Full-Stack Developer with **3+ years** of experience architecting and delivering production systems across **healthcare, ERP, and SaaS**. I focus on **scale, reliability, and business impact**—not buzzwords.
+I'm a Full-Stack Developer with **4+ years** of experience architecting and delivering production systems across **healthcare, ERP, and SaaS**. I focus on **scale, reliability, and business impact**—not buzzwords.
 
-- **10+ production systems** delivered end-to-end  
+- **19+ production systems** delivered end-to-end  
 - **Enterprise CRM, lead automation, AI-powered platforms**, and infrastructure migrations  
 - Strong in **React, Node.js, TypeScript, AWS**, and **CI/CD**  
 - I care about **ownership, performance by default, and long-term maintainability**
@@ -26,19 +26,6 @@ I'm a Full-Stack Developer with **3+ years** of experience architecting and deli
 
 ---
 
-### Experience Snapshot
-
-- **Family Builders & Developers** — *Full-Stack Developer* (Oct 2024 – Present)  
-  Enterprise CRM systems, AWS infrastructure (EC2, S3, Lambda), CI/CD; 4+ CRM systems, 45% efficiency gains, 99.9% uptime for 10K+ daily users.
-
-- **Ace On Technology** — *Full-Stack Developer* (Sep 2023 – Oct 2024)  
-  6+ production apps (healthcare & e-commerce, 50K+ users), 90% test coverage, 98% accessibility.
-
-- **Freelance** — *Full-Stack Developer* (Jun 2022 – Jul 2023)  
-  SaaS and e-commerce for 8+ international clients (USA, UK, Middle East); Docker, Nginx, AWS, Stripe/PayPal.
-
----
-
 ### Tech Stack
 
 **Frontend:** React · Next.js · TypeScript · Tailwind CSS  
@@ -49,13 +36,19 @@ I'm a Full-Stack Developer with **3+ years** of experience architecting and deli
 
 ---
 
-### Featured Work
+**Featured Projects**
 
 - **WhatsApp Funnel** — Lead automation across WhatsApp, Facebook Lead Ads, and webhooks; 80% lead processing automated, 3x faster response.
 - **Emailie** — AI email platform (GPT-4 personalization); 45% higher open rates, 2.5x click-through.
 - **Employee Management System** — Enterprise HR (attendance, performance, payroll); 85% HR task automation, 50% fewer payroll errors.
 - **Warm Home** — Rental platform (listings, chat, leases, payments); 40% less management time, 70% faster payments.
-- **Infrastructure** — Microservices migration (zero-downtime), CI/CD pipelines, streaming data (Kafka, 5TB+ daily).
+- **Banzai Auction Fulfillment Platform** — UK auction warehouse fulfillment (Android PDA, Zebra BLE printing, React/PHP); scan-gated shipments, ShipStation labels, Stripe payments.
+
+**Side Quests**
+
+- **Microservices Migration** — Zero-downtime monolith-to-microservices (Docker, Kubernetes, AWS EKS); deployments reduced from 2–3 hours to ~15 minutes.
+- **CI/CD Infrastructure** — Automated pipelines (GitHub Actions, Docker, Kubernetes); 95%+ deployment success, ~10-minute releases.
+- **Data Processing Pipeline** — Streaming data with Apache Kafka; 5TB+ daily processing, real-time analytics.
 
 ---
 
